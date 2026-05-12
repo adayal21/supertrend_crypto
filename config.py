@@ -1,0 +1,18 @@
+TIMEFRAME = "1h"
+
+INITIAL_PORTFOLIO_CAPITAL = 60000
+
+CAPITAL_PER_TRADE = 10000
+
+COINS = [
+    "BTC-USD",
+    "ETH-USD",
+    "SOL-USD",
+    "BNB-USD",
+    "XRP-USD",
+    "DOGE-USD"
+]
+
+ATR_PERIOD = 10
+
+FACTOR = 2.0
